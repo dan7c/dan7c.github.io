@@ -60,3 +60,6 @@
 			padding: 2em 0 2em 0;
 			height: 100vh;
 		}
+		#main > section#about {
+			height: 100%;
+		}
